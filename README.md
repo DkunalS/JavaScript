@@ -1,2 +1,2 @@
 # JavaScript
-java script Repo chai and code
+Learning repository of Java Script
